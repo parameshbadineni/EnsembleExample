@@ -1,6 +1,7 @@
 """
 Complete Ensemble Learning Examples in Python
 Shows all major ensemble techniques with a real dataset
+At the end it calculate the score with best model
 """
 
 import numpy as np
