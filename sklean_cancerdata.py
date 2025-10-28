@@ -1,6 +1,7 @@
 """
 Complete Ensemble Learning Examples in Python
 Shows all major ensemble techniques with a real dataset
+This is a good example!
 """
 
 import numpy as np
